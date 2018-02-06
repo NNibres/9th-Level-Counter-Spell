@@ -1,3 +1,4 @@
+
 # 9th-Level-Counter-Spell
 CYBR Capstone Project - CoRA Security Testing
 ## Executive Summary
@@ -12,3 +13,9 @@ This project is important for this team not only for the practical applications 
 * Developing test cases for the application
 * Employing test cases to develop PHP test scripts for automatic security testing of CoRA
 * Report findings to client, along with scripts and documentation
+
+
+## Project Timeline
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline1.PNG)
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline2.PNG)
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline3.PNG)
