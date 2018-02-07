@@ -1,4 +1,4 @@
-
+:
 # 9th-Level-Counter-Spell
 CYBR Capstone Project - CoRA Security Testing
 ## Executive Summary
@@ -37,8 +37,9 @@ This project is important for this team not only for the practical applications 
 
 7) Dusk: This tool is used for application testing, it is based on the open source tools ChromeDriver and facebook Php-webdriver which makes it simple to use without the need to experience the long and intense procedure of setting up selenium.
 
+| Role      | Group Members                                 |
+| ----------| ----------------------------------------------|
 | Scripters | Nikko Nibres, Michael Sullivan, Jacob Miranda |
-| ----      | ----                                          |
 | Pen-Testers | Nathaniel Dobesh, Jacob Miranda             |
 |Documenters | Nikko Nibres, Alsalt Alkharusi, Nathaniel Dobesh |
 
