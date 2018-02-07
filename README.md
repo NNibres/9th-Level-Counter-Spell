@@ -1,3 +1,4 @@
+
 :
 # 9th-Level-Counter-Spell
 CYBR Capstone Project - CoRA Security Testing
@@ -15,6 +16,7 @@ This project is important for this team not only for the practical applications 
 * Report findings to client, along with scripts and documentation
 
 
+
 ## Project Timeline
 ![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline1.PNG)
 ![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline2.PNG)
@@ -23,7 +25,7 @@ This project is important for this team not only for the practical applications 
 
 
 ## Resources&Technology needed:
-1) Github: The first tool that we will use while working in our project is Github. We will use github to upload our work and the work could be some tests, user cases, scripts, results and many other things. This github repository can be viewed by the students, instructor, as well as the client later on. Moreover, the whole group is going to work on this tool since all the work has to be uploaded to github.
+1) Github: The first tool that we will use while working in our project is Github. We will use Github to upload our work and the work could be some tests, user cases, scripts, results and many other things. This Github repository can be viewed by the students, instructor, as well as the client later on. Moreover, the whole group is going to work on this tool since all the work has to be uploaded to Github.
  
 2) Burp suite: The second tool that we will use is called Burp suite. Burp suite is a java-based penetration-testing tool that is used widely by information security professionals to identify any vulnerability that can be used by attackers to attack a particular system. We are planning to use this tool to do some penetration testing on Cora to identify any vulnerabilities.
  
@@ -35,7 +37,7 @@ This project is important for this team not only for the practical applications 
  
 6) Laravel Homestead: This tool is a great tool that contains pre-packaged vagrant box, which provides an environment for developing without requiring to install PHP, a web server, and any other server software tools on local machine, so it saves time, offer, and it is a great tool that contains tools needed for development.
 
-7) Dusk: This tool is used for application testing, it is based on the open source tools ChromeDriver and facebook Php-webdriver which makes it simple to use without the need to experience the long and intense procedure of setting up selenium.
+7) Dusk: This tool is used for application testing, it is based on the open source tools ChromeDriver and Facebook Php-webdriver which makes it simple to use without the need to experience the long and intense procedure of setting up selenium.
 
 | Role      | Group Members                                 |
 | ----------| ----------------------------------------------|
