@@ -1,5 +1,3 @@
-
-:
 # 9th-Level-Counter-Spell
 CYBR Capstone Project - CoRA Security Testing
 ## Executive Summary
@@ -24,7 +22,7 @@ This project is important for this team not only for the practical applications 
 
 
 
-## Resources&Technology needed:
+## Resources & Technology needed:
 1) Github: The first tool that we will use while working in our project is Github. We will use Github to upload our work and the work could be some tests, user cases, scripts, results and many other things. This Github repository can be viewed by the students, instructor, as well as the client later on. Moreover, the whole group is going to work on this tool since all the work has to be uploaded to Github.
  
 2) Burp suite: The second tool that we will use is called Burp suite. Burp suite is a java-based penetration-testing tool that is used widely by information security professionals to identify any vulnerability that can be used by attackers to attack a particular system. We are planning to use this tool to do some penetration testing on Cora to identify any vulnerabilities.
