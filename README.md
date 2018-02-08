@@ -50,9 +50,9 @@ This project is important for this team not only for the practical applications 
 | Pen-Testers | Nathaniel Dobesh, Jacob Miranda, Alsalt Alkharusi|
 |Documenters | Nikko Nibres, Alsalt Alkharusi, Nathaniel Dobesh |
 
-### Project Methodology
+## Project Methodology
 
-## Literature Review
+### Literature Review
 
 For this project, there will be penetration testing conducted on the CoRA website. The purpose of the website is to correlate the bones found in the warzone and areas of conflict and map them back to fallen heroes. The information related to the fallen heroes is located in a database.
 
@@ -64,7 +64,7 @@ On the other hand, we will be using methods like scanning the network, to find o
 
 Kim, P. (2015). The hacker playbook 2 practical guide to penetration testing. North Charleston, SC: CreateSpace by Amazon Distribution GmbH.
 
-## Technical Plan
+### Technical Plan
 
 The plan that our team will follow will directly correlate to the plan that The Hacker Playbook 2 describes. Essentially, there are three main focuses for this project where different members of our team will be assigned to. Those three main focuses include the actual penetration testing, scripting, and documentation. 
 
