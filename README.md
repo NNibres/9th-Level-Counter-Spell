@@ -20,7 +20,14 @@ This project is important for this team not only for the practical applications 
 ![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline2.PNG)
 ![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline3.PNG)
 
-
+## Risk List Ranked by Risk Level
+| Risk List | Description | Chosen option |
+| ------------- |-------------| -----|
+| 1. Penetration Testing Tools| We have chosen an array of penetration testing tools to use for the CoRA application. But there are still numerous problems we can encounter throughout the project. Application availability problems, user account lockout and others can occur due to the tests themselves. Another possible issue is being able to utilize these tools properly to find vulnerabilities on the CoRA application.  | Our plan is monitor this risk throughout the testing and look for any possible issues that could be mitigated. |	
+| 2.Requirements fail to align with systems  |  The CoRA requirements fail to align with other systems (e.g. they duplicate functionality). This risk could potentially impact our objective because the requirements may cause issues with the systems we use and create complications and delay. | Our plan is to mitigate this risk and make sure that the tools and systems used in the project are aligned with the CoRA requirements. |
+| 3. Learning curves lead to delay | Our project team would need to acquire new skills for the project and there's a possible risk that productivity will be low. Given that PHP is the scripting language we have to use for the CoRA application to make test cases could cause some delay and affect the project timeline. | Our plan is to mitigate this risk as much as possible and make sure that we are on top of things and put extra hours on the learning objectives if needed. | 
+| 4. Under Communication| Communication is crucial when it comes to project management. Under communication is a risk that could potentially cause issues with our project expectations, project timeline, project changes and team members expectations. | Our plan is to monitor this risk and make sure everyone is on the same page on the project. |
+| 5. System Outages |  System outages could happen throughout the project. Critical systems such as the test environments could go down which may cause loss of important project components including test scripts and documentation.  |  Our plan is to monitor this risk and make sure all scripts and documentations are saved properly. |		
 
 ## Resources & Technology needed:
 1) Github: The first tool that we will use while working in our project is Github. We will use Github to upload our work and the work could be some tests, user cases, scripts, results and many other things. This Github repository can be viewed by the students, instructor, as well as the client later on. Moreover, the whole group is going to work on this tool since all the work has to be uploaded to Github.
