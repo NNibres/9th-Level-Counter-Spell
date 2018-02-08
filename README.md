@@ -40,7 +40,7 @@ This project is important for this team not only for the practical applications 
 | Role      | Group Members                                 |
 | ----------| ----------------------------------------------|
 | Scripters | Nikko Nibres, Michael Sullivan, Jacob Miranda |
-| Pen-Testers | Nathaniel Dobesh, Jacob Miranda             |
+| Pen-Testers | Nathaniel Dobesh, Jacob Miranda, Alsalt Alkharusi|
 |Documenters | Nikko Nibres, Alsalt Alkharusi, Nathaniel Dobesh |
 
 ### Project Methodology
