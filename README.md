@@ -21,7 +21,7 @@ This project is important for this team not only for the practical applications 
 ![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Timeline3.PNG)
 
 ## Risk List Ranked by Risk Level
-| Risk Name | Description | Plane |
+| Risk Name | Description | Plan |
 | ------------- |-------------| -----|
 | 1. Penetration Testing Tools| We have chosen an array of penetration testing tools to use for the CoRA application. But there are still numerous problems we can encounter throughout the project. Application availability problems, user account lockout and others can occur due to the tests themselves. Another possible issue is being able to utilize these tools properly to find vulnerabilities on the CoRA application.  | Our plan is monitor this risk throughout the testing and look for any possible issues that could be mitigated. |	
 | 2.Requirements fail to align with systems  |  The CoRA requirements fail to align with other systems (e.g. they duplicate functionality). This risk could potentially impact our objective because the requirements may cause issues with the systems we use and create complications and delay. | Our plan is to mitigate this risk and make sure that the tools and systems used in the project are aligned with the CoRA requirements. |
