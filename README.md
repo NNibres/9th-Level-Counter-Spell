@@ -74,3 +74,10 @@ As the penetration testers find the different vulnerabilities in the system it i
 
 The final part of our plan is documentation. This part of the process is not exclusive to one specific part of the project. In fact, as the penetration testers find a new vulnerability with the system, it is up to the documenters to write down what was found, how it was found, when, etc. When it comes to scripting, in-code comments and documentation will need to be written to explain our process at this stage of the project. 
 
+# Diagrams
+## QA Process Flowchart
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Flowchart1.png)
+## Automated Scripting Flowchart
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Flowchart2.png)
+## Pen Testing Flowchart
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Flowchart3.png)
