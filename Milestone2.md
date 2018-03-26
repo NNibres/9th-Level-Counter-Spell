@@ -18,3 +18,4 @@ Many of the challenges the team encountered had to do with the learning curve th
 Our initial risk assessment for the project are still very relevant throughout the entire lifetime of the project. Some of the biggest risks that we will be facing will be more towards getting more accustomed to the programming language that the client has required our team to make the scripts for. The other major risk is team availability as personal lives can greatly affect our progress in the project and may put us behind of where we need to be. 
 
 # Diagrams
+![alt text](https://github.com/NNibres/9th-Level-Counter-Spell/blob/master/Images/Milestone 2 Flowchart .PNG)
